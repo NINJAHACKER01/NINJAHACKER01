@@ -13,7 +13,7 @@
 ```python
 Name = "Sayed Faizan"
 Class = "12th"
-Age = "17"
+Age = "18"
 Country = "🇮🇳"
 ```
 
